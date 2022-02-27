@@ -1,0 +1,1 @@
+#rsadecrypt decrypts an RSA-encrypted ciphertext, returning the corresponding cleartext.
